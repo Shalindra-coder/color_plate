@@ -1,0 +1,48 @@
+.main{
+    margin-top: 200px;
+
+    
+
+}
+
+.canvas{
+    height: 20vh;
+    width: 100%;
+
+    
+
+    display: flex;
+justify-content: center;
+    align-items: center;
+    
+  
+    
+
+    
+}
+.button{
+    height: 100px;
+    width: 15%;
+    border: 1px black solid;
+    background-color: grey;
+    display: inline-block
+    
+}
+#grey{
+    background-color: grey;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+h1{
+    margin-left: 35%;
+}
+h2{
+    margin-left: 20%;
+}
